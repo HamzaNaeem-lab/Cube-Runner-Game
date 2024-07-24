@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02845B6-C7BC-3FF1-937D-D49A05884D72}|Assembly-CSharp.csproj|C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\assets\\script\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02845B6-C7BC-3FF1-937D-D49A05884D72}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02845B6-C7BC-3FF1-937D-D49A05884D72}|Assembly-CSharp.csproj|c:\\users\\hamza\\onedrive\\desktop\\unity game\u0027s\\cube game\\assets\\script\\gamecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02845B6-C7BC-3FF1-937D-D49A05884D72}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02845B6-C7BC-3FF1-937D-D49A05884D72}|Assembly-CSharp.csproj|C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\assets\\script\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02845B6-C7BC-3FF1-937D-D49A05884D72}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02845B6-C7BC-3FF1-937D-D49A05884D72}|Assembly-CSharp.csproj|C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\assets\\script\\maincamerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02845B6-C7BC-3FF1-937D-D49A05884D72}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\maincamerascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameControler.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\Assets\\Script\\GameControler.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameControler.cs",
+              "ToolTip": "C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\Assets\\Script\\GameControler.cs",
+              "RelativeToolTip": "Assets\\Script\\GameControler.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAzwCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:16:51.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\Assets\\Script\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Score.cs",
+              "ToolTip": "C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\Assets\\Script\\Score.cs",
+              "RelativeToolTip": "Assets\\Script\\Score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:58:51.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainCameraScript.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\Assets\\Script\\MainCameraScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainCameraScript.cs",
+              "ToolTip": "C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\Assets\\Script\\MainCameraScript.cs",
+              "RelativeToolTip": "Assets\\Script\\MainCameraScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:28:48.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\Assets\\Script\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerCollision.cs",
+              "ToolTip": "C:\\Users\\Hamza\\OneDrive\\Desktop\\Unity Game\u0027s\\Cube Game\\Assets\\Script\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerCollision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:17:16.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
